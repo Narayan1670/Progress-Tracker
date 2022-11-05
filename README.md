@@ -78,16 +78,16 @@
     - - [x] Sorting:
         - - [x] Merge Sort
         - - [x] Quick Sort
-    - - [ ] Backtracking
-        - - [ ] Sudoku Solver
-        - - [ ] N-Queens
-        - - [ ] N-Knights
-        - - [ ] Maze problems
-    - - [ ] Recursion String Problems
-    - - [ ] Recursion Array Problems
-    - - [ ] Recursion Pattern Problems
-    - - [ ] Subset Questions
-    - - [ ] Recursion - Permutations, Dice Throws etc Questions
+    - - [x] Backtracking
+        - - [x] Sudoku Solver
+        - - [x] N-Queens
+        - - [x] N-Knights
+        - - [x] Maze problems
+    - - [x] Recursion String Problems
+    - - [x] Recursion Array Problems
+    - - [x] Recursion Pattern Problems
+    - - [x] Subset Questions
+    - - [x] Recursion - Permutations, Dice Throws etc Questions
 - [x] Object Oriented Programming
     - - [x] Introduction
     - - [x] Classes & its instances
@@ -99,12 +99,12 @@
         - - [x] Encapsulation
     - - [x] Overloading & Overriding
     - - [x] Static & Non-Static
-    - - [ ] Access Control
-    - - [ ] Interfaces
-    - - [ ] Abstract Classes
+    - - [x] Access Control
+    - - [x] Interfaces
+    - - [x] Abstract Classes
     - - [x] Singleton Class
     - - [ ] final, finalize, finally
-    - - [ ] Exception Handling
+    - - [x] Exception Handling
 - [x] Linked List
     - - [x] Introduction
     - - [x] Singly and Doubly Linked List
@@ -121,22 +121,22 @@
     - - [x] Queue using Stack and Vice versa
     - - [x] Circular Queue
 - [ ] Dynamic Programming
-    - - [ ] Introduction
-    - - [ ] Recursion + Recursion DP + Iteration + Iteration Space Optimized
-    - - [ ] Complexity Analysis
-    - - [ ] 0/1 Knapsack
-    - - [ ] Subset Questions
+    - - [x] Introduction
+    - - [x] Recursion + Recursion DP + Iteration + Iteration Space Optimized
+    - - [x] Complexity Analysis
+    - - [x] 0/1 Knapsack
+    - - [x] Subset Questions
     - - [ ] DP on Grids
-    - - [ ] LC Questions on Above topics
-    - - [ ] Unbounded Knapsack
-    - - [ ] Subseq questions
+    - - [x] LC Questions on Above topics
+    - - [x] Unbounded Knapsack
+    - - [x] Subseq questions
     - - [ ] String DP
 - [ ] Trees
     - - [x] Introduction
     - - [x] Binary Trees
     - - [x] Recursive Preorder, Inorder, Postorder Traversals
     - - [x] Iterative Preorder, Inorder, Postorder Traversals
-    - - [ ] LC Questions
+    - - [x] LC Questions
     - - [ ] DFS
     - - [ ] BFS    
     - - [ ] Binary Search Trees
@@ -145,9 +145,9 @@
     - - [ ] Segment Tree
     - - [ ] Fenwick Tree / Binary Indexed Tree
 - [ ] Heaps
-    - - [ ] Introduction
-    - - [ ] Theory
-    - - [ ] Priority Queue
+    - - [x] Introduction
+    - - [x] Theory
+    - - [x] Priority Queue
     - - [ ] Two Heaps Method
     - - [ ] k-way merge
     - - [ ] top k elements
@@ -159,7 +159,7 @@
     - - [ ] Limitations and how to solve
     - - [ ] Map using LinkedList
     - - [ ] Map using Hash
-    - - [ ] Chaining
+    - - [x] Chaining
     - - [ ] Probing
     - - [ ] Huffman-Encoder
 - [ ] Tries
@@ -182,8 +182,8 @@
     - - [ ] Bellman ford
     - - [ ] A* pathfinding Algorithm
 - [ ] Greedy Algorithms
-    - - [ ] Introduction
-    - - [ ] Applications
+    - - [x] Introduction
+    - - [x] Applications
     - - [ ] LC,GFG Questions
     - - [ ] Interview Questions
 
